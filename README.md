@@ -31,3 +31,12 @@ The model and insights help prioritize retention strategies.
 ## 🛠️ Tools Used
 - Python (Pandas, Seaborn, Matplotlib, Scikit-learn)
 - Jupyter Notebook
+
+## How to Run
+1. Clone the repo  
+2. Open the `Customer_Churn_Analysis.ipynb` notebook  
+3. Run all cells to reproduce the analysis  
+
+## Author
+Kanak Tembhare
+kanaktembhare.iigs@gmail.com
